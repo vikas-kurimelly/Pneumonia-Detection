@@ -90,7 +90,7 @@ pneumonia-detection/
 ![Home Page](home-page.png)
 
 ### Upload and Predict
-![Upload and Predict](predict.png)
+![Upload and Predict](predict.jpeg)
 
 ## Acknowledgments
 - [Kaggle](https://www.kaggle.com) for providing the Chest X-ray dataset.
