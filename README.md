@@ -87,10 +87,10 @@ pneumonia-detection/
 
 ## Screenshots
 ### Home Page
-![Home Page](images/home-page(1).png)
+![Home Page](.images/home-page(1).png)
 
 ### Upload and Predict
-![Upload and Predict](images/predict(1).jpeg)
+![Upload and Predict](.images/predict(1).jpeg)
 
 ## Acknowledgments
 - [Kaggle](https://www.kaggle.com) for providing the Chest X-ray dataset.
