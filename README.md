@@ -87,7 +87,7 @@ pneumonia-detection/
 
 ## Screenshots
 ### Home Page
-![Home Page](home-page.png)
+![Home Page](images/home-page(1).png)
 
 ### Upload and Predict
 ![Upload and Predict](predict.jpeg)
